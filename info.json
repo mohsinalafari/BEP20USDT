@@ -1,0 +1,16 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "Tether USD Stablecoin on Binance Smart Chain",
+  "website": "https://tether.to",
+  "explorer": "https://bscscan.com/token/0xd9145CCE52D386f254917e481eB44e9943F39138",
+  "status": "active",
+  "id": "0xd9145CCE52D386f254917e481eB44e9943F39138",
+  "links": [
+    { "name": "twitter", "url": "https://twitter.com/Tether_to" },
+    { "name": "github", "url": "https://github.com/tetherto" }
+  ],
+  "tags": ["stablecoin"]
+}
